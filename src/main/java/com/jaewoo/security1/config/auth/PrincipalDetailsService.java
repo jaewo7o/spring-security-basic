@@ -1,4 +1,4 @@
-package com.jaewoo.security1.auth;
+package com.jaewoo.security1.config.auth;
 
 import com.jaewoo.security1.model.User;
 import com.jaewoo.security1.repository.UserRepository;

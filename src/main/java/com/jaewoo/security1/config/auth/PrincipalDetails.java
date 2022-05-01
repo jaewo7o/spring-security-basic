@@ -1,10 +1,9 @@
-package com.jaewoo.security1.auth;
+package com.jaewoo.security1.config.auth;
 
 import com.jaewoo.security1.model.User;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
 
